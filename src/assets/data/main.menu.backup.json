@@ -1,0 +1,134 @@
+
+[
+	{
+    "title": "Main",
+    "groupTitle" : true
+	},
+	{
+    "title": "Dashboards",
+    "icon": {
+      "class": "fa fa-home",
+      "bg": "#ea8080",
+      "color": "rgba(0,0,0,.87)"
+		},
+    "routing": "/default-layout/dashboard",
+    "badge": {
+      "text": "New",
+      "color": "#fff",
+      "bg": "#E57373"
+		},
+    "sub": [
+			{
+        "title": "Clientes",
+        "routing": "#"
+			},
+			{
+        "title": "Ventas",
+        "routing": "#"
+			},
+			{
+        "title": "Facturacion",
+        "routing": "#"
+      },
+      {
+        "title": "Cuentas por cobrar",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Cuentas por pagar",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Estadisticos",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Cuentas bancarias",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Control de Viaticos",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Caja Chica",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Gastos",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Flujo de efectivo",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Control Financiero de Proyectos",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Proveedores",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Compras",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Control de almacenes e inventarios",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Proveedores",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Compras",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Control de almacenes",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Inventarios",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Costos",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Produccion",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Contabilidad",
+        "routing": "#"
+      }
+      ,
+      {
+        "title": "Control de Activos Fijos",
+        "routing": "#"
+			}
+		]
+  }
+]
